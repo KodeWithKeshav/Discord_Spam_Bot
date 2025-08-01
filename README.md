@@ -20,6 +20,6 @@ Tsar Bomba is a powerful and lightweight Discord automation bot designed to spam
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/discord_spam_bot.git
+git clone https://github.com/KodeWithKeshav/Discord_Spam_Bot.git
 cd discord_spam_bot
 python tsar_bomba.py
