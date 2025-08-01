@@ -12,7 +12,7 @@ client = commands.Bot(command_prefix="$", intents = discord.Intents.all())
 
 ######################################setup########################################
 
-token = 'MTEwMTczMjM2NjAwMDU4Njc2Mg.GRWJ0H.SOrASKZ9cxwqrsOtZHfeB2KMg_RWOvVJDEfR1s'
+token = 'Add your token here!'
 channel_names = ['Nuker by Kstar']
 message_spam = ['@everyone NUKED BY Kstar ']
 webhook_names = ['NUKED BY Kstar' ]
